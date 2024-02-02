@@ -1,0 +1,31 @@
+[
+  {
+    "id": "personal-info",
+    "path": "personal-info",
+    "label": "personalInfoHtmlTitle",
+    "descriptionLabel": "personalInfoIntroMessage",
+    "modulePath": "/content/account-page/AccountPage.js",
+    "componentName": "AccountPage"
+  },
+  {
+    "id": "signingin",
+    "path": "security/signingin",
+    "label": "signingIn",
+    "modulePath": "/content/signingin-page/SigningInPage.js",
+    "componentName": "SigningInPage"
+  },
+  {
+    "id": "device-activity",
+    "path": "security/device-activity",
+    "label": "deviceActivitySidebarTitle",
+    "modulePath": "/content/device-activity-page/DeviceActivityPage.js",
+    "componentName": "DeviceActivityPage"
+  },
+  {
+    "id": "linked-accounts",
+    "path": "security/linked-accounts",
+    "label": "linkedAccountsSidebarTitle",
+    "modulePath": "/content/linked-accounts-page/LinkedAccountsPage.js",
+    "componentName": "LinkedAccountsPage"
+  }
+]
